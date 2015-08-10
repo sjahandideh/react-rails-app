@@ -51,3 +51,5 @@ bower.json
 /log/*
 !/log/.keep
 /tmp
+.env
+.env.development
